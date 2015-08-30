@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Threads_Task1", "HW_Threads_Task1\HW_Threads_Task1.csproj", "{7C63AEA9-F29A-4C72-A866-6A10309C0F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Threads_task2", "HW_Threads_task2\HW_Threads_task2.csproj", "{BFC7D085-505C-4BFB-9E3A-1EF1740B29A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C63AEA9-F29A-4C72-A866-6A10309C0F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C63AEA9-F29A-4C72-A866-6A10309C0F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C63AEA9-F29A-4C72-A866-6A10309C0F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C63AEA9-F29A-4C72-A866-6A10309C0F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC7D085-505C-4BFB-9E3A-1EF1740B29A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC7D085-505C-4BFB-9E3A-1EF1740B29A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC7D085-505C-4BFB-9E3A-1EF1740B29A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC7D085-505C-4BFB-9E3A-1EF1740B29A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
